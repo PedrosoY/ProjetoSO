@@ -1,9 +1,9 @@
-README — ProjetoSOFinal
+README — ProjetoSO
 =======================
 
 1) COMO PEGAR O EXECUTÁVEL (RELEASES)
 ------------------------------------
-1. Acesse a página do repositório (GitHub) do ProjetoSOFinal.
+1. Acesse a página do repositório (GitHub) do ProjetoSO.
 2. Clique na aba **Releases**.
 3. Abra a **última release** disponível.
 4. Faça o download dos *assets* da release — normalmente haverá um arquivo ZIP com o executável e recursos. Baixe **todos** os arquivos do asset (ou o ZIP contendo tudo).
